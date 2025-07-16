@@ -37,6 +37,7 @@ This project is a console-based ATM simulator written in **C++**, featuring user
    * `6. Additional Options`: Placeholder
    * `7. Exit`: Exit the program
 
+
 ---
 
 ## 📂 File Structure
