@@ -31,3 +31,9 @@ void loadMPINs() {
         return;
     }
 }
+void saveMPINs() {
+    ofstream outfile("mpins.txt");
+    for (int i = 0; i < size; i++) {
+        outfile << usernames[i] << " " << mpins[i] << endl;
+    }
+    outfile.close();
