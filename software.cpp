@@ -37,9 +37,13 @@ void saveMPINs() {
         outfile << usernames[i] << " " << mpins[i] << endl;
     }
     outfile.close();
-}
-string getHiddenInput() {
+}string getHiddenInput() {
     string input = "";
     char ch;
     while ((ch = getch()) != '\r') { // '\r' = Enter key
+        if (ch == '\b') { // Backspace
+            if (!input.empty()) {
+                input.pop_back();
+                cout << "\b \b";
+            }
         
