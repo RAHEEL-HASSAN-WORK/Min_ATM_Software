@@ -37,7 +37,9 @@ void saveMPINs() {
         outfile << usernames[i] << " " << mpins[i] << endl;
     }
     outfile.close();
-}string getHiddenInput() {
+}
+
+string getHiddenInput() {
     string input = "";
     char ch;
     while ((ch = getch()) != '\r') { // '\r' = Enter key
