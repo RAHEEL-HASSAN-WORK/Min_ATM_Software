@@ -49,5 +49,7 @@ void saveMPINs() {
             input += ch;
             cout << '*';
         }
-    }
+    } cout << endl;
+    return input;
+}
         
