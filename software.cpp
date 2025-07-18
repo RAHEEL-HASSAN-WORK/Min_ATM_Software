@@ -45,5 +45,9 @@ void saveMPINs() {
             if (!input.empty()) {
                 input.pop_back();
                 cout << "\b \b";
-            }
+            } else if (isdigit(ch)) { // Only accept digits
+            input += ch;
+            cout << '*';
+        }
+    }
         
