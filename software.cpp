@@ -38,3 +38,8 @@ void saveMPINs() {
     }
     outfile.close();
 }
+string getHiddenInput() {
+    string input = "";
+    char ch;
+    while ((ch = getch()) != '\r') { // '\r' = Enter key
+        
