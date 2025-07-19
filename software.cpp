@@ -53,5 +53,12 @@ string getHiddenInput() {
         }
     } cout << endl;
     return input;
+}int findUserIndex(string usernames[], int size, string inputUser) {
+    for (int i = 0; i < size; i++) {
+        if (usernames[i] == inputUser) {
+            return i; // return index
+        }
+    }
+    return ; // not found
 }
         
