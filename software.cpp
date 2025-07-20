@@ -62,5 +62,5 @@ int findUserIndex(string usernames[], int size, string inputUser) {
         }
     }
     return -1; // not found
-}
+}int main()
         
