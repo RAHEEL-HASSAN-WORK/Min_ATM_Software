@@ -65,8 +65,7 @@ int findUserIndex(string usernames[], int size, string inputUser) {
 }
 
 int main(){
- 
-    
+loadMPINs();    
     return 0;
 }
         
