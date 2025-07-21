@@ -69,7 +69,7 @@ loadMPINs();
 
 
 float balance= 104322.684;
-	char name_S[][...]= "Raheel Hassan";
+// char name_S[][...]= "Raheel Hassan";
     return 0;
 }
         
