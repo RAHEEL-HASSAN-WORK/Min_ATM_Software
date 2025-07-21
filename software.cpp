@@ -66,8 +66,7 @@ int findUserIndex(string usernames[], int size, string inputUser) {
 
 int main(){
 loadMPINs();
-
-
+float balance= 104322.684;
     return 0;
 }
         
