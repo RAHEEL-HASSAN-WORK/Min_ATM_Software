@@ -70,7 +70,7 @@ loadMPINs();
 
 float balance= 104322.684;
 // char name_S[][...]= "Raheel Hassan";
-
+	int password_S= 7654;
 
     return 0;
 }
