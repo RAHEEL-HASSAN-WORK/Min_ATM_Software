@@ -72,6 +72,7 @@ float balance= 104322.684;
 // char name_S[][...]= "Raheel Hassan";
 //	int password_S= 7654;
 	string name_C;
+    string password_C;
 
     return 0;
 }
