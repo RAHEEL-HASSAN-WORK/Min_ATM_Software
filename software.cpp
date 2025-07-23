@@ -73,7 +73,7 @@ float balance= 104322.684;
 //	int password_S= 7654;
 	string name_C;
     string password_C;
-    	bool isname;
+    // bool isname;
 
     return 0;
 }
