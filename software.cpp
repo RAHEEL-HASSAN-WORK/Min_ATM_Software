@@ -75,7 +75,7 @@ float balance= 104322.684;
     string password_C;
     // bool isname;
     // int choice;
-    // int withdraw;
+     int withdraw;
     int deposit;
 
 
