@@ -77,6 +77,7 @@ float balance= 104322.684;
      int choice;
      int withdraw;
     int deposit;
+    char again;
 
 
     return 0;
