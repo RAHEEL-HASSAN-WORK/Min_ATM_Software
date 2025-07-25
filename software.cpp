@@ -78,7 +78,7 @@ float balance= 104322.684;
      int withdraw;
     int deposit;
     char again;
-
+    char exit[];
 
     return 0;
 }
