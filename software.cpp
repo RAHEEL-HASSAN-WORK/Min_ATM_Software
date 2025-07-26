@@ -80,6 +80,8 @@ float balance= 104322.684;
     char again;
     // char exit[];
 
+    cout<<">>-------Welcome To ATM Services!-------<<"<<"\n \n";
+
     return 0;
 }
         
