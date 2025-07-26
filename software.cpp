@@ -79,8 +79,7 @@ float balance= 104322.684;
     int deposit;
     char again;
     // char exit[];
-
-    cout<<">>-------Welcome To ATM Services!-------<<"<<"\n \n";
+cout<<">>-------Welcome To ATM Services!-------<<"<<"\n \n";
 
     return 0;
 }
