@@ -81,7 +81,7 @@ float balance= 104322.684;
     // char exit[];
 cout<<">>-------Welcome To ATM Services!-------<<"<<"\n \n";
 
-cout<<"Enter the Username... : "
+cout<<"Enter the Username... : ";
 cin>>name_C;
 
     return 0;
