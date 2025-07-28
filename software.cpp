@@ -86,7 +86,7 @@ cin>>name_C;
 int index = findUserIndex(usernames, size, name_C)
 if (index == -1) {
         cout << "User not found...!\n";
-    
+    else {
 
     return 0;
 }
