@@ -84,7 +84,9 @@ cout<<">>-------Welcome To ATM Services!-------<<"<<"\n \n";
 cout<<"Enter the Username... : ";
 cin>>name_C;
 int index = findUserIndex(usernames, size, name_C)
-if (index == -1)
+if (index == -1) {
+        cout << "User not found...!\n";
+    
 
     return 0;
 }
