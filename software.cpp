@@ -89,6 +89,7 @@ if (index == -1) {
         cout << "User not found...!\n";
     else {
         cout << "Enter Password... : "
+        password_C = getHiddenInput();
     return 0;
 }
         
