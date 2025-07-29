@@ -90,6 +90,7 @@ if (index == -1) {
     else {
         cout << "Enter Password... : "
         password_C = getHiddenInput();
+        cout<<endl;
     return 0;
 }
         
