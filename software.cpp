@@ -88,7 +88,7 @@ int index = findUserIndex(usernames, size, name_C)
 if (index == -1) {
         cout << "User not found...!\n";
     else {
-
+        cout << "Enter Password... : "
     return 0;
 }
         
