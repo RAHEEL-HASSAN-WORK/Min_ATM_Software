@@ -92,6 +92,8 @@ if (index == -1) {
         password_C = getHiddenInput();
         cout<<endl;
         if(mpins[index] == password_C)
+        {
+            cout << "***------Access granted. Welcome, " << name_C << "!------***\n \n"
     return 0;
 }
         
