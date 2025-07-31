@@ -91,6 +91,7 @@ if (index == -1) {
         cout << "Enter Password... : ";
         password_C = getHiddenInput();
         cout<<endl;
+        if(mpins[index] == password_C)
     return 0;
 }
         
