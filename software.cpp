@@ -93,7 +93,8 @@ if (index == -1) {
         cout<<endl;
         if(mpins[index] == password_C)
         {
-            cout << "***------Access granted. Welcome, " << name_C << "!------***\n \n"
+            cout << "***------Access granted. Welcome, " << name_C << "!------***\n \n";
+            
     return 0;
 }
         
