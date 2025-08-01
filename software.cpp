@@ -96,7 +96,9 @@ if (index == -1) {
             cout << "***------Access granted. Welcome, " << name_C << "!------***\n \n";
             
     
-    do
+    do{
+        
+    }
     return 0;
 }
         
