@@ -97,6 +97,7 @@ if (index == -1) {
             
     
     do{
+        cout<<"1.Fast Cash \n";
         
     }
     return 0;
