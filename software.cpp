@@ -98,7 +98,7 @@ if (index == -1) {
     
     do{
         cout<<"1.Fast Cash \n";
-        cout<<"2.Withdraw Money \n"
+        cout<<"2.Withdraw Money \n";
         
     }
     return 0;
