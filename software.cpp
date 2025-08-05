@@ -100,6 +100,7 @@ if (index == -1) {
         cout<<"1.Fast Cash \n";
         cout<<"2.Withdraw Money \n";
         cout<<"3.Deposit Money \n";
+        cout<<"4.Change MPIN \n"
         
     }
     return 0;
