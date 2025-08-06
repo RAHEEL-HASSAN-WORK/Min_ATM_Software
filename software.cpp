@@ -101,6 +101,7 @@ if (index == -1) {
         cout<<"2.Withdraw Money \n";
         cout<<"3.Deposit Money \n";
         cout<<"4.Change MPIN \n";
+        cout<<"5.Check Balance \n";
         
     }
     return 0;
