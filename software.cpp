@@ -103,7 +103,7 @@ if (index == -1) {
         cout<<"4.Change MPIN \n";
         cout<<"5.Check Balance \n";
         cout<<"6.Additional Options \n";
-        cout<<"7.Exit \n \n"
+        cout<<"7.Exit \n \n";
     }
     return 0;
 }
