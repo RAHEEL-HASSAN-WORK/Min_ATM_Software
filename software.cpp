@@ -104,6 +104,8 @@ if (index == -1) {
         cout<<"5.Check Balance \n";
         cout<<"6.Additional Options \n";
         cout<<"7.Exit \n \n";
+
+        cout<<"Select the option :";
     }
     return 0;
 }
