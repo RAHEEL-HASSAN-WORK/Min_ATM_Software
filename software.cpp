@@ -106,6 +106,7 @@ if (index == -1) {
         cout<<"7.Exit \n \n";
 
         cout<<"Select the option :";
+        cin>>choice;
     }
     return 0;
 }
