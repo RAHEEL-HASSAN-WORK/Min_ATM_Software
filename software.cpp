@@ -108,7 +108,7 @@ if (index == -1) {
         cout<<"Select the option :";
         cin>>choice;
 
-switch()
+switch(choice)
     }
     return 0;
         }
