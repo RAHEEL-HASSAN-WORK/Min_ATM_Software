@@ -74,8 +74,8 @@ float balance= 104322.684;
 	string name_C;
     string password_C;
     // bool isname;
-     int choice;
-     int withdraw;
+    int choice;
+    int withdraw;
     int deposit;
     char again;
     // char exit[];
@@ -107,7 +107,9 @@ if (index == -1) {
 
         cout<<"Select the option :";
         cin>>choice;
+
+switch()
     }
     return 0;
-}
+        }
         
