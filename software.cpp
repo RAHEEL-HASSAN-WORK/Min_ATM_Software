@@ -110,7 +110,7 @@ if (index == -1) {
 
 switch(choice){
     case 1:
-
+            cout<<"Enter the amount... :";
 }
     }
 }
