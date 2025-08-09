@@ -113,6 +113,7 @@ switch(choice){
             cout<<"Enter the amount... :";
             cin>>withdraw;
             cout<<"you have withdraw: "<<withdraw<<"\n";
+            balance -= withdraw;
 }
     }
 }
