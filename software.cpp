@@ -115,6 +115,8 @@ switch(choice){
             cout<<"you have withdraw: "<<withdraw<<"\n";
             balance -= withdraw;
             break;
+    case 2:
+
 }
     }
 }
