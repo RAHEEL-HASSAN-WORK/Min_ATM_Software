@@ -54,6 +54,7 @@ string getHiddenInput() {
     } cout << endl;
     return input;
 }
+}
 
 int findUserIndex(string usernames[], int size, string inputUser) {
     for (int i = 0; i < size; i++) {
@@ -120,7 +121,8 @@ switch(choice){
 
 }
     }
-}
+return 0;
+        }
     }
-    return 0;
+}
 }
