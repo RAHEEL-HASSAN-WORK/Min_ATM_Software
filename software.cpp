@@ -118,6 +118,7 @@ switch(choice){
             break;
     case 2:
             cout<<"Enter the amount... :";
+            cin>>withdraw;
 
 }
     }
