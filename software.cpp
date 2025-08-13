@@ -119,11 +119,12 @@ switch(choice){
     case 2:
             cout<<"Enter the amount... :";
             cin>>withdraw;
+            if(withdraw > 0 && withdraw <= balance)
 
 }
     }
+        
+
+
 return 0;
-        }
-    }
-}
 }
