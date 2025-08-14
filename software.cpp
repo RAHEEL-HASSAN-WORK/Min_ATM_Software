@@ -120,7 +120,7 @@ switch(choice){
             cout<<"Enter the amount... :";
             cin>>withdraw;
             if(withdraw > 0 && withdraw <= balance){
-                
+                balance -= withdraw;
             }
 
 }
