@@ -123,7 +123,7 @@ switch(choice){
                 balance -= withdraw;
                 cout<<"You have withdrawn :"<<withdraw;
             }else{
-                
+                cout<<"Insufficient balance or invalid amount!\n";
             }
 
 }
