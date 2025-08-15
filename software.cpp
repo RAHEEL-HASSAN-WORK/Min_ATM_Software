@@ -122,6 +122,8 @@ switch(choice){
             if(withdraw > 0 && withdraw <= balance){
                 balance -= withdraw;
                 cout<<"You have withdrawn :"<<withdraw;
+            }else{
+                
             }
 
 }
