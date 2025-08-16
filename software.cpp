@@ -126,6 +126,8 @@ switch(choice){
                 cout<<"Insufficient balance or invalid amount!\n";
             }
             break;
+    case 3:
+                    
 
 }
     }
