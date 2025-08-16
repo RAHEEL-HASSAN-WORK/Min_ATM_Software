@@ -127,7 +127,7 @@ switch(choice){
             }
             break;
     case 3:
-                    
+           cout<<"Enter the amount... :";         
 
 }
     }
