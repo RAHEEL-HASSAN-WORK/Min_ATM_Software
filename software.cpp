@@ -129,6 +129,7 @@ switch(choice){
     case 3:
            cout<<"Enter the amount... :";
            cin>>deposit;         
+           balance += deposit;
 
 }
     }
